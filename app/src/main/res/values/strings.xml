@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Quick Debugging</string>
+    <string name="developer_options_unavailable">Không thể mở Tùy chọn nhà phát triển trên thiết bị này.</string>
+</resources>
